@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kanit Jettanawichamok (25 years old)
 
 💻 Full-stack Web Developer | PHP • Laravel • Next.js • React • PostgreSQL
-- 🚀 2 years 4 months experience in full-time roles + 6 months freelance work (Php - laravel)
+- 🚀 2 years 4 months experience in full-time job with 6 months freelance work (Php - laravel)
 - 🚀 Passionate about building scalable, high-performance web apps with clean code and modern UX.
 
 ---
