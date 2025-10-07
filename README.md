@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kanit Jettanawichamok
+# 👋 Hi, I'm Kanit Jettanawichamok (25 years old)
 
 💻 Full-stack Web Developer | PHP • Laravel • Next.js • React • PostgreSQL
 - 🚀 2 years 4 months experience in full-time roles + 6 months freelance work
@@ -17,28 +17,28 @@
 
 ## 🧩 Featured Projects
 
-### 🏕️ [Next.js Camping E-commerce](https://camp-lake.vercel.app)
+### 🏕️ <a href="https://camp-lake.vercel.app" target="_blank">Camp Lake</a>
 A modern camping gear e-commerce with receipt printing.  
 **Stack:** Next.js (App Router), EdgeStore, Auth.js, Tailwind, Vercel  
 **Highlights:** Authentication, responsive design, server actions.
 
 ---
 
-### 🧠 [Angular Quiz](https://angularquiz-84f99.web.app)
+### 🧠 <a href="https://angularquiz-84f99.web.app" target="_blank">Angular Quiz</a>
 Quiz app with role-based filtering and Firebase backend.  
 **Stack:** Angular 17 (Standalone), Firebase  
 **Highlights:** Reactive forms, admin authentication, Firestore integration.
 
 ---
 
-### 🐘 [VSL Solutions](https://vsl-solutions.com)
+### 🐘 <a href="https://vsl.eventonlineservices.com" target="_blank">VSL Solutions</a>
 Freelance Laravel project for a real client.  
 **Stack:** PHP, Laravel, Bootstrap, MySQL  
 **Highlights:**  
 - Built a production-grade web platform for managing events and internal workflows.  
 - Developed authentication, admin panel, and data management features.  
 - Collaborated directly with client for UI/UX refinement.  
-- **Staging/Test Deployment:** [vsl.eventonlineservices.com](https://vsl.eventonlineservices.com) *(deployed on Plesk for testing new features)*
+- **Staging/Test Deployment:** <a href="https://vsl.eventonlineservices.com" target="_blank">vsl.eventonlineservices.com</a> *(deployed on Plesk for testing new features)*
 
 ---
 
