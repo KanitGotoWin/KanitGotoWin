@@ -41,7 +41,7 @@
 ### 🏕️ <a href="https://camp-lake.vercel.app" target="_blank">Camp Lake</a>
 A modern camping gear e-commerce with receipt printing.  
 **Stack:** Next.js (App Router), EdgeStore, Auth.js, Tailwind, Vercel  
-**Highlights:** Authentication, responsive design, server actions.
+**Highlights:** Rest api, authentication, responsive design, server actions.
 
 <br>**For admin testing account**
 <br>Username: admin@admin.com
