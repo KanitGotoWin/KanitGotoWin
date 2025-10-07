@@ -39,7 +39,7 @@
 
 ## 🧩 Featured Projects
 
-### 🏕️ <a href="https://camp-lake.vercel.app" target="_blank">Camp Lake</a>
+### 🏕️ <a href="https://camp-lake.vercel.app" target="_blank">CampPaal</a>
 A modern camping gear e-commerce with receipt printing.  
 **Stack:** Next.js (App Router), EdgeStore, Auth.js, Tailwind, Vercel  
 **Highlights:** Rest api, authentication, responsive design, server actions.
