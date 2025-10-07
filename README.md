@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Kanit Jettanawichamok (25 years old)
 
 💻 Full-stack Web Developer | PHP • Laravel • Next.js • React • PostgreSQL
+- 🌍 Based in Thailand
 - 🚀 2 years 4 months experience in full-time job with 6 months freelance work (Php - laravel)
 - 🚀 Passionate about building scalable, high-performance web apps with clean code and modern UX.
 
@@ -89,4 +90,6 @@ Backend workshop project using **Go Fiber**, **GORM**, and **PostgreSQL** follow
 ---
 
 ## 📫 You can contact me at
-- ✉️ **Email:** kanit.jettanawichamok@gmail.com  
+- ✉️ **Email:** [kanit.jettanawichamok@gmail.com](mailto:kanit.jettanawichamok@gmail.com)  
+- 📘 **Facebook:** [Kanit Jettanawichamok](https://www.facebook.com/Kanit.Jettanawichamok)  
+- 📞 **Tel:** 062 245 2015
