@@ -42,9 +42,10 @@
 A modern camping gear e-commerce with receipt printing.  
 **Stack:** Next.js (App Router), EdgeStore, Auth.js, Tailwind, Vercel  
 **Highlights:** Authentication, responsive design, server actions.
-**For admin testing**
-- Username: admin@admin.com
-- Password: 1234
+
+<br>**For admin testing**
+<br>Username: admin@admin.com
+<br>Password: 1234
 
 ---
 
@@ -52,9 +53,10 @@ A modern camping gear e-commerce with receipt printing.
 Quiz app with role-based filtering and Firebase backend.  
 **Stack:** Angular 17 (Standalone), Firebase  
 **Highlights:** Reactive forms, admin authentication, Firestore integration.
-**For admin testing**
-- Username: admin
-- Password: 123456
+
+<br>**For admin testing**
+<br>Username: admin
+<br>Password: 123456
 
 ---
 
