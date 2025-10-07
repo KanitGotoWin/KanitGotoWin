@@ -38,7 +38,7 @@ Freelance Laravel project for a real client.
 - Built a production-grade web platform for managing events and internal workflows.  
 - Developed authentication, admin panel, and data management features.  
 - Collaborated directly with client for UI/UX refinement.  
-- **Staging/Test Deployment:** <a href="https://vsl.eventonlineservices.com" target="_blank">vsl.eventonlineservices.com</a> *(deployed on Plesk for testing new features)*
+- **Staging/Test Deployment:** <a href="https://vsl.eventonlineservices.com" target="_blank">vsl.eventonlineservices.com</a> *(deployed on Plesk for testing new features)* can easily register by email with 8 character password
 
 ---
 
