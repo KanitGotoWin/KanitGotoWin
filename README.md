@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kanit Jettanawichamok (25 years old)
+# 👋 Hi, I'm Kanit (25 years old)
 
 💻 Full-stack Web Developer | PHP • Laravel • Next.js • React • PostgreSQL
 - 🌍 Based in Thailand
