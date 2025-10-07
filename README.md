@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kanit (25 years old)
 
-💻 Full-stack Web Developer | PHP • Laravel • Next.js • React • PostgreSQL
+💻 Full-stack Web Developer | Next.js • React • PHP • Laravel
 - 🌍 Based in Thailand
 - 🚀 2 years 4 months experience in full-time job with 6 months freelance work (Php - laravel)
 - 🚀 Passionate about building scalable, high-performance web apps with clean code and modern UX.
