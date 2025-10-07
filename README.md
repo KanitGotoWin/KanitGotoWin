@@ -32,10 +32,11 @@ Quiz app with role-based filtering and Firebase backend.
 ---
 
 ### 🐘 <a href="https://vsl.eventonlineservices.com" target="_blank">VSL Solutions</a>
-Freelance Laravel project for a real client.  
+Freelance Laravel project for a real client.
 **Stack:** PHP, Laravel, Bootstrap, MySQL  
 **Highlights:**  
-- Built a production-grade web platform for managing events and internal workflows.  
+- Built a production-grade web platform for managing events and internal workflows.
+- Implemented a **task scheduling system** (via Laravel commands) to upload `.xml` product files for the SEO team automatically.  
 - Developed authentication, admin panel, and data management features.  
 - Collaborated directly with client for UI/UX refinement.  
 - **Staging/Test Deployment:** <a href="https://vsl.eventonlineservices.com" target="_blank">vsl.eventonlineservices.com</a> *(deployed on Plesk for testing new features)* can easily register by email with 8 character password
