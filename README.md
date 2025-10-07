@@ -75,7 +75,7 @@ Freelance Laravel project for a real client.
 
 ### 🐹 Leave System Microservice *(In Progress)*
 Backend workshop project using **Go Fiber**, **GORM**, and **PostgreSQL** following **Clean Architecture** principles.  
-**Stack:** Go (Fiber), GORM, PostgreSQL, Docker, JWT  
+**Stack:** Go (Fiber), GORM, PostgreSQL, Docker  
 **Highlights:**  
 - Modular and maintainable structure with domain-driven design.  
 - RESTful APIs for leave requests, approvals, and user management.  
