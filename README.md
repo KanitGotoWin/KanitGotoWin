@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kanit (25 years old)
+# 👋 Hi, I'm Kanit
 
-💻 Full-stack Web Developer | Next.js • React • PHP • Laravel
+💻 25 years old Full-stack Web Developer | Next.js • React • PHP • Laravel
 - 🌍 Based in Thailand
 - 🚀 2 years 4 months experience in full-time job with 6 months freelance work (Php - laravel)
 - 🚀 Passionate about building scalable, high-performance web apps with clean code and modern UX.
@@ -20,7 +20,8 @@
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
