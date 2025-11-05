@@ -61,7 +61,7 @@ Quiz app with role-based filtering and Firebase backend.
 
 ---
 
-### 🐘 <a href="https://vsl.eventonlineservices.com" target="_blank">VSL Solutions</a>
+### 🐘 <a href="https://vsl-solutions.com" target="_blank">VSL Solutions</a>
 Freelance Laravel project for a real client.
 **Stack:** PHP, Laravel, Bootstrap, MySQL  
 **Highlights:**  
