@@ -11,6 +11,7 @@
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) 
+![NestJS](https://img.shields.io/badge/Nestjs-red?style=flat&logo=nestjs&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
